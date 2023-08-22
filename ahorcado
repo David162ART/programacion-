@@ -1,0 +1,8 @@
+import random 
+print('========================================')
+print('Bienvenido al Juego del AHORCADO')
+print('========================================')
+
+
+
+print("FIN DEL JUEGO")
